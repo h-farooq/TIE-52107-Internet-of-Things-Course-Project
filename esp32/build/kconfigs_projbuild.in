@@ -1,0 +1,6 @@
+source "/home/hasan/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/hasan/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/hasan/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/hasan/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/hasan/esp/amalgam/esp32-freqcount-example/main/Kconfig.projbuild"
+source "/home/hasan/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"

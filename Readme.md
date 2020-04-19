@@ -1,0 +1,2 @@
+# Esp32 Code
+This repository contains the source codes of TIE-52107 Internet of Things course project. This project was implemented on a sensor running with ESP32 which communicated with remote server on 94.237.87.91. There were scripts running on server which can be found in scripts folder.
